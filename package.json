@@ -1,0 +1,30 @@
+{
+  "name": "iot_coap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makehoney/iot_coap.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makehoney/iot_coap/issues"
+  },
+  "homepage": "https://github.com/makehoney/iot_coap#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "coap": "^0.21.0",
+    "coap-cli": "^0.5.1",
+    "coap-packet": "^0.1.14",
+    "mysql": "^2.15.0",
+    "nodemailer": "^4.6.6",
+    "request": "^2.87.0",
+    "supervisor": "^0.12.0",
+    "web3": "^0.20.1"
+  }
+}
